@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="quadratic_equations_new" translatable="false">Quadratic equations(New)</string>
+    <string name="quadratic_equations">Quadratic equations</string>
+    <string name="standart_actions">Standart actions</string>
+    <string name="quit">Quit</string>
+    <string name="enter_x_2">Enter x^2</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="equals_0" translatable="false">= 0</string>
+    <string name="enter_x">Enter x</string>
+    <string name="reset">Reset</string>
+    <string name="enter_num">Enter num</string>
+    <string name="no_solution">There is no solution</string>
+    <string name="choose">Back to Menu</string>
+    <string-array name="symbols">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>

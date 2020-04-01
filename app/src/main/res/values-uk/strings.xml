@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="choose">Повернутися до меню</string>
+    <string name="enter_num">Введіть число</string>
+    <string name="enter_x">Введіть x</string>
+    <string name="enter_x_2">Введіть x^2</string>
+    <string name="no_solution">Немає коренів</string>
+    <string name="quadratic_equations">Квадратні рівняння</string>
+    <string name="quit">Вихід</string>
+    <string name="reset">Скинути</string>
+    <string name="standart_actions">Стандартні дії</string>
+</resources>
